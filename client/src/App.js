@@ -22,6 +22,11 @@ import OrderHistory from './pages/OrderHistory';
 import {Provider} from 'react-redux';
 import store from './utils/store';
 
+//Import store provider from global state
+import Success from './pages/Success';
+import OrderHistory from './pages/OrderHistory';
+
+
 const httpLink = createHttpLink({
   uri: '/graphql',
 });

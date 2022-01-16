@@ -14,3 +14,5 @@ const Home = () => {
 };
 
 export default Home;
+
+// everything seems good here 

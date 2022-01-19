@@ -29,12 +29,12 @@ The application will be invoked by using the following command:
 
 ### Demo 🎥
 
-* [Link to Demo]()
+* [Link to Demo](https://watch.screencastify.com/v/H736WkgPFhP7ZZuZiZ2U)
 
 ### GitHub & Heroku Link
 
 * [GitHub Link](https://github.com/Zermeno94/redux-redo)
-* [Heroku Link]()
+* [Heroku Link](https://redux-redo.herokuapp.com/)
 
 ## Contributers
 * Miranda Zermeno

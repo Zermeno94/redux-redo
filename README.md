@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) 
 
 ## Description
-We will work with complex state management techniques and review the key tools needed to build a MERN-stack app with routing and authentication. 
+This E-Commerce allows users browse products and to signup or login into their account. The checkout process uses Stripe. As a developer, I wanted to refactored the existing code to Redux. 
 
 
 ## Table of Contents 🔎
@@ -21,10 +21,10 @@ The application will be invoked by using the following command:
   npm install 
 ``` 
 ```bash
-  node index.js
+  npm run seed
 ```
 ```bash
-   npm test
+   npm run develop
 ```
 
 ### Demo 🎥
@@ -38,7 +38,7 @@ The application will be invoked by using the following command:
 
 ## Contributers
 * Miranda Zermeno
-* Tutor: Eric Slayer 
+* Tutor: Eric Sayer 
 
 
 ## Resources & Tutorials  💻
